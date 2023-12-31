@@ -1,4 +1,4 @@
-## Jae-hyuk Todolist
+## Jaehyuk Todolist
 
 - [ ] Flutter - to do 만들기
 - [ ] Flutter - 소셜 로그인 구현
