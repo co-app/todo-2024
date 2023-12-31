@@ -1,5 +1,11 @@
 # Todo-2024
 
+## Task
+
+- [재혁님_Todo](./jae.md)
+- [보윤님_Todo](./boyun.md)
+- [동규님_Todo](./dong.md)
+
 ## 방법
 
 - 본인이 끝낸 작업은 검증된 작업물과 같이 PR을 올립니다.
