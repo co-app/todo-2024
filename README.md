@@ -13,6 +13,7 @@
 - 거절당한 PR은 다시 검증 합니다.
 
 ## Todo
+- [ ] Commit 되면 Slack으로 알람가게 하기 (몰래 커밋 방지)
 - [ ] Todo Json 파일로 수정
 - [ ] React 프로젝트 만들어서 S3 + CloudFront로 배포하기
 - [ ] 알림 하기
