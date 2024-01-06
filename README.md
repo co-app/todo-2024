@@ -3,7 +3,7 @@
 ## Task
 
 - [재혁님_Todo](./jae.md)
-- [보윤님_Todo](./boyun.md)
+- [보윤님_Todo](./boyoon.md)
 - [동규님_Todo](./dong.md)
 
 ## 방법
