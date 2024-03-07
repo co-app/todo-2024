@@ -5,7 +5,8 @@
 
 - [ ] Global Chatting Service Architecture (Api Gateway + Lambda + DynamoDB) (1)
 - [ ] Elastic Search (EFK, ELK, Elastic-agent) (1)
-- [ ] ECS Deep 하게 공부해보기 (1)
+- [x] ECS Deep 하게 공부해보기 (1)
+    - 참고 ) <a href="https://github.com/zkfmapf123/aws-copilot-architecture">  ECS Copilot CLI </a>
 - [ ] AWS Associate 자격증 따기 (2)
 - [ ] Golang MSA 관련된 프로젝트 하나만들기 (2)
 - [ ] Prometheus (node-export, black-box) (3)
